@@ -23,5 +23,13 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Required functionalitiy
+
+<img src='https://i.imgur.com/gxwncI1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br>
+
+Pull to refresh functionality
+
+
+<img src='https://i.imgur.com/y7NTFXN.gif' width='' /><br>
+
 
